@@ -22,3 +22,6 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
     end
     ```
 
+## Links
+
+* http://sensorkit.en.joy-it.net/index.php?title=KY-001_Temperature_sensor_module
